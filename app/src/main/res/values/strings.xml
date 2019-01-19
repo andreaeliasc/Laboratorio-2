@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab2</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Menu">Menú</string>
+    <string name="Pedido">Pedido</string>
+    <string name="Sorbetto">Sorbetto</string>
 </resources>
