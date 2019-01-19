@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".Menu">
         </activity>
+        <activity android:name=".Pedidos">
+        </activity>
     </application>
 
 </manifest>
