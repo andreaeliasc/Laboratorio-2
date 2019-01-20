@@ -4,6 +4,7 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ArrayAdapter
+import android.widget.ListAdapter
 import android.widget.ListView
 import android.widget.Toast
 import kotlinx.android.synthetic.main.menu.*
@@ -30,7 +31,8 @@ val helados = listOf("helado de fresa", "helado de vainilla", "helado de chocola
 
              lv_helado.setOnItemClickListener { parent, view, position, id ->
 
-                Toast.makeText(this, "Se agrego " + helados[position], Toast.LENGTH_LONG).show()
+
+                Toast.makeText(this, "Se agrego " + helados[position], Toast.LENGTH_SHORT).show()
 
             }.toString()
 
