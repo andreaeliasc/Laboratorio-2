@@ -7,6 +7,6 @@ class Pedidos : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_pedidos)
+        setContentView(R.layout.pedidos)
     }
 }

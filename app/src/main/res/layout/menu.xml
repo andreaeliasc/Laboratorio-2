@@ -10,7 +10,8 @@
     <ListView
             android:id="@+id/lv_helado"
             android:layout_width="match_parent"
-            android:layout_height="314dp" tools:layout_editor_absoluteY="0dp" tools:layout_editor_absoluteX="116dp"/>
+            android:layout_height="314dp" tools:layout_editor_absoluteY="0dp" tools:layout_editor_absoluteX="116dp"
+            tools:ignore="MissingConstraints"/>
     <Button
             android:text="@string/inicio"
             android:layout_width="wrap_content"

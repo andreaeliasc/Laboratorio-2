@@ -17,5 +17,13 @@ class Actividad1 : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+
+        button2.setOnClickListener{
+            val intent:Intent = Intent(this, Pedidos::class.java)
+            startActivity(intent)
+            finish()
+
+
+        }
     }
 }

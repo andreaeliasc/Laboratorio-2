@@ -5,4 +5,7 @@
     <string name="Pedido">Pedido</string>
     <string name="Sorbetto">Sorbetto</string>
     <string name="inicio">Inicio</string>
+    <string name="Limpiar">Limpiar Pedido</string>
+    <string name="Pedir">Hacer Pedido</string>
+    <string name="Back">Inicio</string>
 </resources>
